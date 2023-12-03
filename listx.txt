@@ -1647,6 +1647,7 @@ WANZ-317,https://t7.cdn2020.com/video/m3u8/2021/04/20/ed29b497/index.m3u8
 WANZ-982,https://t4s.cdn2020.com/video/m3u8/2020/09/19/88a76f2c/index.m3u8
 XRW-506,https://t6s.cdn2020.com/video/m3u8/2021/01/19/00819d11/index.m3u8
 XVSR-566,https://t5s.cdn2020.com/video/m3u8/2020/12/16/aaf06750/index.m3u8
+新建1,#genre#
 玩偶•橘子猫「合作集」,https://v4.cvhlscdn.com/20230426/guDLBTn8/hls/index.m3u8
 真心话大冒险「情人节特辑」,https://v4.cvhlscdn.com/20230311/soCDcqfB/hls/index.m3u8?
 新季里的某一天「新年开作2023」,https://v4.cvhlscdn.com/20230216/iw7LeEbx/hls/index.m3u8?
@@ -1862,6 +1863,7 @@ MSD-004/妇女的不论之恋,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/
 MSD-003/菜鸟特务,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/kn/99/yw/34/c3ac47258c9f4b7399c6a6543b80b8c1.m3u8?
 MSD-002/维修工的心跳艳遇(上),https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/gz/dp/pq/y9/acd55327c8504396a9ec4bf6050bd13a.m3u8?
 MSD-001/乱伦迷情药,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/qi/oi/gz/ux/dbf57474fbed49c9aa3fb97bcd75b891.m3u8?
+新建2,#genre#
 VIVID TV,http://de1cdn.plusx.tv:8880/354/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 PENTHOUSE REALITY TV,http://de1cdn.plusx.tv:8880/352/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 PENTHOUSE TV,http://de1cdn.plusx.tv:8880/353/mono.m3u8?token=b457d9d9a2dd39e2fa3333
@@ -2496,6 +2498,7 @@ ipx-575栗山莉緒,https://t6s.cdn2020.com/video/m3u8/2020/12/28/4999f5dc/index
 ipx-585岬,https://t6s.cdn2020.com/video/m3u8/2020/12/29/91abcc6e/index.m3u8
 ipx-592栗山莉緒,https://t6s.cdn2020.com/video/m3u8/2021/02/27/ccd1bac4/index.m3u8
 ipx-601岬,https://t6s.cdn2020.com/video/m3u8/2021/02/27/bd05d99b/index.m3u8
+新建3,#genre#
 ipx-628桜空,https://t12.cdn2020.com:12337/video/m3u8/2021/10/12/ff56a768/index.m3u8
 ipx-632岬,https://t11.cdn2020.com:12336/video/m3u8/2021/08/28/b7f4dd73/index.m3u8
 ipx-685栗山莉緒,https://t10.cdn2020.com:12335/video/m3u8/2021/07/28/0a067ab7/index.m3u8
@@ -2895,6 +2898,7 @@ mxgs-984波木,https://t12.cdn2020.com:12337/video/m3u8/2021/11/06/2fb41c71/inde
 mxgs-992大槻,https://t17.cdn2020.com:12341/video/m3u8/2022/04/06/72dedc7b/index.m3u8
 nacr-367妃月,https://t5s.cdn2020.com/video/m3u8/2020/11/24/928a4176/index.m3u8
 NACR-389 玄葵葵木,https://siwazywcdn2.com:5278/zhongwenzimu/H5o3ZdkB/index.m3u8
+新建4,#genre#
 nacr-452春原未来,https://t15.cdn2020.com:12339/video/m3u8/2022/01/11/b0bc7ac6/index.m3u8
 NACR-460,https://t15.cdn2020.com:12339/video/m3u8/2022/01/17/da6cdc85/index.m3u8
 nacr-469沙月恵奈,https://t13.cdn2020.com:12338/video/m3u8/2021/12/04/eb1de453/index.m3u8
@@ -3294,6 +3298,7 @@ waaa-106,https://t12.cdn2020.com:12337/video/m3u8/2021/10/11/7c31b20e/index.m3u8
 waaa-115妃,https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/3b238b38/index.m3u8
 waaa-121沙月恵奈,https://t13.cdn2020.com:12338/video/m3u8/2021/12/14/d7b90e8c/index.m3u8
 waaa-125月野,https://t13.cdn2020.com:12338/video/m3u8/2021/12/17/012d1b63/index.m3u8
+新建5,#genre#
 waaa-128,https://t15.cdn2020.com:12339/video/m3u8/2022/01/15/166cdfea/index.m3u8
 waaa-134工藤,https://t15.cdn2020.com:12339/video/m3u8/2022/01/17/7ed2cc24/index.m3u8
 wanz-056大槻,https://t6s.cdn2020.com/video/m3u8/2021/02/21/cc26ed57/index.m3u8
@@ -3893,6 +3898,7 @@ Gabriela_22_,https://edge-hls.doppiocdn.com/hls/84030918/master/84030918.m3u8
 EstefaniWilliams,https://edge-hls.doppiocdn.com/hls/84009412/master/84009412.m3u8
 Charlotte93_,https://edge-hls.doppiocdn.com/hls/84002412/master/84002412.m3u8
 Sofia_Wright,https://edge-hls.doppiocdn.com/hls/83940605/master/83940605.m3u8
+新建6,#genre#
 IremLee,https://edge-hls.doppiocdn.com/hls/83909736/master/83909736.m3u8
 Hanna-Chris,https://edge-hls.doppiocdn.com/hls/83909664/master/83909664.m3u8
 madison_horny_,https://edge-hls.doppiocdn.com/hls/83909587/master/83909587.m3u8
@@ -4292,6 +4298,7 @@ Monica_Sexy,https://edge-hls.doppiocdn.com/hls/75662981/master/75662981.m3u8
 sato_yano,https://edge-hls.doppiocdn.com/hls/75654013/master/75654013.m3u8
 Lissa_Anders,https://edge-hls.doppiocdn.com/hls/75645977/master/75645977.m3u8
 adara_roux,https://edge-hls.doppiocdn.com/hls/75625403/master/75625403.m3u8
+新建7,#genre#
 azirru,https://edge-hls.doppiocdn.com/hls/75590434/master/75590434.m3u8
 sam_palacio,https://edge-hls.doppiocdn.com/hls/75578511/master/75578511.m3u8
 Sugarllipss,https://edge-hls.doppiocdn.com/hls/75558779/master/75558779.m3u8
@@ -4891,6 +4898,7 @@ debbie_33,https://edge-hls.doppiocdn.com/hls/56250747/master/56250747.m3u8
 Renatta_s,https://edge-hls.doppiocdn.com/hls/56237299/master/56237299.m3u8
 sunny_girl4,https://edge-hls.doppiocdn.com/hls/56192017/master/56192017.m3u8
 Sweet__Candyyy,https://edge-hls.doppiocdn.com/hls/56088055/master/56088055.m3u8
+新建8,#genre#
 AnnaHot,https://edge-hls.doppiocdn.com/hls/5603328/master/5603328.m3u8
 Sacha-xx,https://edge-hls.doppiocdn.com/hls/56021062/master/56021062.m3u8
 RanyaArabic,https://edge-hls.doppiocdn.com/hls/56016822/master/56016822.m3u8
